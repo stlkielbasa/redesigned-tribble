@@ -1,0 +1,16 @@
+{
+  "Data": {
+    "Id": "183-09",
+    "ExternalReferences": {
+      "ExternalRef1": null,
+      "ExternalRef2": null
+    },
+    "Links": [
+      {
+        "Rel": "self",
+        "Href": "https://tierpoint-uat.servicepath.io/api/v3/Quotes/183-09"
+      }
+    ],
+    "RelatedEntities": []
+  }
+}
